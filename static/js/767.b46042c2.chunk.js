@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklatihan_8=self.webpackChunklatihan_8||[]).push([[767],{767:function(n,t,e){e.r(t);var s=e(871),i=e(160),l=e(108),a=e(187),c=e(184);t.default=function(n){var t=n.setIsAuth,e=(0,s.s0)();return(0,c.jsxs)("div",{className:i.Z.login,children:[(0,c.jsx)("p",{children:"Sign In with Google"}),(0,c.jsx)("button",{className:i.Z.signIn,onClick:function(){(0,a.rh)(l.g,l.z).then((function(n){localStorage.setItem("isAuth",!0),t(!0),e("/")}))},children:"Google"})]})}}}]);
+//# sourceMappingURL=767.b46042c2.chunk.js.map
